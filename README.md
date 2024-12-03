@@ -1,4 +1,4 @@
-# **Zarity Assignment: BE (Intern)**
+# **Backend  Assignment: BE (Intern)**
 
 This project is a Django REST API for managing and analyzing blood test results. It is designed to demonstrate technical proficiency, code hygiene, and a creative approach to problem-solving.
 
